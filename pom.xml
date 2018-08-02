@@ -1,0 +1,16 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.arulsoft.belajar</groupId>
+	<artifactId>belajar-maven</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
+	<name>Aplikasi Belajar Maven</name>
+
+	<dependencies>
+		<dependency>
+		   <groupId>joda-time</groupId>
+		   <artifactId>joda-time</artifactId>
+		   <version>2.10</version>
+		</dependency>
+	</dependencies>
+</project>
